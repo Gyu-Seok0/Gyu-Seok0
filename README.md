@@ -1,1 +1,9 @@
-I'm a master's student at POSTECH, and my research goal is to create an AI-Driven Decision Support System. Specifically, I've been concentrating on developing a practical recommender system that assists users in complex decision-making. My research spans various topics, including how to integrate a recommender system with areas such as Knowledge Distillation, Continual Learning, and a Diffusion Model. I've gained experience in Computer Vision, NLP, and Reinforcement Learning during my time at CMU. I'm open to collaboration, so please feel free to contact me anytime.
+I'm an AI Research Scientist at Pohang University of Science and Technology (POSTECH).
+
+My goal is to bring about newness in the world through AI.
+
+Concretely, I aim to help people make their daily decisions through practical Recommender Systems.
+
+My research interests include Knowledge Distillation, Continual Learning, and Generative Models such as LLM and Diffusion Models.
+
+I’m open to collaboration, so please feel free to contact me (kbin6961@gmail.com).
