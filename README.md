@@ -1,9 +1,9 @@
-I'm an AI Research Scientist at Pohang University of Science and Technology (POSTECH).
+I am a researcher in the Department of Computer Science and Engineering at Pohang University of Science and Technology (POSTECH).
 
-My goal is to bring about newness in the world through AI.
+I earned my M.S. degree in Artifical Intelligence at POSTECH under the guidance of <a href='https://sites.google.com/view/postechdi/home'> Prof. Hwanjo Yu </a>.
 
-Concretely, I aim to help people make their daily decisions through practical Recommender Systems.
+I completed my B.S. degree with a dual major in Computer Science and Mathematics/Statistics, graduating magna cum laude from Handong Global University.
 
-My research interests include Knowledge Distillation, Continual Learning, and Generative Models such as LLM and Diffusion Models.
+My research interests lie in Information Retreiveal, Recommender Systems, Continual Learning, Knowledge Distillation, and Generative Methods (e.g., LLMs and Diffusion Models).
 
 I’m open to collaboration, so please feel free to contact me (kbin6961@gmail.com).
